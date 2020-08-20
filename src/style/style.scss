@@ -1,0 +1,29 @@
+
+.wrapper {
+  padding: 16px;
+
+  .form {
+    width: 20%;
+
+    .form__input {
+      margin-bottom: 8px;
+    }
+  }
+ .table-taskList{
+   width: 100%;
+   table-layout: fixed;
+   td{
+     width: 100%;
+     word-wrap: break-word;
+   }
+ }
+  .column_sort {
+    cursor: pointer;
+    color: blue;
+  }
+  .total_pages {
+     cursor: pointer;
+   }
+
+}
+

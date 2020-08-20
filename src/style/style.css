@@ -1,0 +1,19 @@
+.wrapper {
+  padding: 16px; }
+  .wrapper .form {
+    width: 20%; }
+    .wrapper .form .form__input {
+      margin-bottom: 8px; }
+  .wrapper .table-taskList {
+    width: 100%;
+    table-layout: fixed; }
+    .wrapper .table-taskList td {
+      width: 100%;
+      word-wrap: break-word; }
+  .wrapper .column_sort {
+    cursor: pointer;
+    color: blue; }
+  .wrapper .total_pages {
+    cursor: pointer; }
+
+/*# sourceMappingURL=style.css.map */
