@@ -4,7 +4,7 @@ class TaskModel
 {
 
     private $database;
-    const NUMBER_LINES = 2;
+    const NUMBER_LINES = 3;
     const DEFAULT_ORDER = 'id';
     const DEFAULT_SORT = 'ASC';
     const DEFAULT_PAGE = 1;
